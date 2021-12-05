@@ -1,0 +1,36 @@
+{
+	"compiler": {
+		"version": "0.4.24+commit.e67f0147"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ptong.sol": "SafeMath"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ptong.sol": {
+			"keccak256": "0x55b92791c18d36416555e88b12242397512447999e2ce8b45618a66974edda0b",
+			"urls": [
+				"bzzr://13982437fec0d6baa80d7907ac1e2a5e0d164c3b96948de2ad58d6812ca867d7"
+			]
+		}
+	},
+	"version": 1
+}
